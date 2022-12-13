@@ -1,0 +1,11 @@
+## Interface: 100002
+## Title: CircularCooldownTracker
+## Notes: Allows the user to move and scale the default Vigor bar for Dragonriding.
+## DefaultState: enabled
+## Author: Fignewticus - Zul'jin (H)
+## SavedVariables: CCTDB
+## Version 1.0.3
+
+Embeds.xml
+CircularCooldown.xml
+CircularCooldownTracker.lua
